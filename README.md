@@ -38,7 +38,7 @@ The design is powered by **Grid and Flexbox** for a perfect balance of structure
 
 You can view the live version of this project here:
 
-👉 **[View Live Project](https://kahkasha17.github.io/Shery-Portfolio-Assignment1/)**  
+👉 **[View Live Project](https://kahkasha17.github.io/alvy-fashion-brand/)**  
 _(Hosted using GitHub Pages)_
 
 
